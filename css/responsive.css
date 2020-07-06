@@ -1,0 +1,1229 @@
+@media (min-width:320px) and (max-width:575px) {
+
+    /* nav part css start   */
+    nav {
+        z-index: 9999;
+    }
+
+    nav ul {
+        background: #fbdfe6;
+        text-align: center;
+        padding: 20px 0;
+
+    }
+
+    Nav .menu {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    nav .btn {
+        display: none;
+    }
+
+
+    Nav .menu a::after {
+        display: none;
+    }
+
+
+    /* nav part css end   */
+
+    /* banner part css start   */
+    #banner-part {
+        padding-bottom: 30px;
+    }
+
+    #banner-part h2 {
+        font-size: 48px;
+        margin-top: 60px;
+    }
+
+    #banner-part h1 {
+        font-size: 53px;
+        margin-top: -11px;
+    }
+
+    #banner-part p {
+        width: auto;
+        margin-top: 15px;
+    }
+
+    #banner-part a {
+        margin-top: 30px;
+        padding: 10px 20px;
+    }
+
+
+
+    /* banner part css end   */
+
+    /* history part css start   */
+
+    #history-part {
+        margin-top: 60px;
+    }
+
+    #history-part p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+
+
+
+    /* history part css end   */
+
+
+    /* gift part css start   */
+
+
+    #gift-part p {
+        width: auto;
+    }
+
+    #gift-part .title span {
+        width: 120px;
+    }
+
+    #gift-part .left a {
+        font-size: 18px;
+        padding: 8px 18px;
+
+    }
+
+
+    #gift-part .left .last {
+        margin-left: 5px;
+    }
+
+    #gift-part .right img {
+        margin-top: 20px;
+    }
+
+
+
+    /* gift part css end   */
+
+    /* ticket part css start   */
+
+
+    #ticket-part .left img {
+        margin-top: 0;
+    }
+
+    #ticket-part .right p {
+        width: auto;
+        margin-top: 3px;
+    }
+
+    #ticket-part .right a {
+        font-size: 18px;
+        padding: 8px 20px;
+        ;
+    }
+
+    #ticket-part .right .last {
+        margin-left: 8px;
+
+    }
+
+    #ticket-part .right .bottom {
+        margin-top: 15px;
+    }
+
+
+
+
+    /* ticket part css end   */
+
+    /* offer part css start   */
+
+    #offer-part {
+        margin-top: 60px;
+        padding: 40px 0;
+
+    }
+
+    #offer-part .title span {
+        width: 160px;
+    }
+
+    #offer-part .left p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+    #offer-part .left .bottom {
+        margin-top: 15px;
+    }
+
+    #offer-part .box h3 {
+        font-size: 18px;
+    }
+
+    #offer-part .box img {
+        margin-right: 15px;
+    }
+
+    #offer-part .box {
+        margin-top: 20px;
+
+    }
+
+    #offer-part .box p {
+        width: auto;
+    }
+
+
+
+    /* offer part css end   */
+
+    /* shoot part css start   */
+
+
+    #shoots-part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    #shoots-part .overlay ul li a i {
+        font-size: 15px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    #shoots-part .box {
+        margin-top: 20px;
+    }
+
+    #shoots-part .bottom {
+        margin-top: 0;
+    }
+
+    #shoots-part .right .title h3 {
+        margin-top: 60px;
+    }
+
+    #shoots-part .right .title {
+        margin-bottom: 30px;
+    }
+
+    #shoots-part .right p {
+        width: auto;
+
+    }
+
+    #shoots-part .right .btm {
+        margin-top: 15px;
+    }
+
+    #shoots-part .right a {
+        font-size: 18px;
+        padding: 8px 15px;
+    }
+
+    #shoots-part .right .btn {
+        margin-right: 5px;
+    }
+
+
+
+    /* shoot part css end   */
+    /* counter part css start   */
+
+
+    #counter-part {
+        background-image: none;
+        background: #fce0ec;
+        margin-top: 30px;
+        padding-bottom: 50px;
+    }
+
+    #counter-part .box {
+        margin-top: 20px;
+    }
+
+
+
+
+    /* counter part css end   */
+    /* testi part css start   */
+
+    #testi-part {
+        padding: 60px 0;
+    }
+
+    #testi-part .ticon {
+        display: none;
+    }
+
+    #testi-part .bicon {
+        display: none;
+    }
+
+    #testi-part .box {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 30px;
+    }
+
+    #testi-part .box .top p {
+        width: auto;
+    }
+
+    #testi-part .box .circle {
+        width: 80px;
+        height: 80px;
+    }
+
+    #testi-part .box .bottom {
+        margin-top: 25px;
+    }
+
+    #testi-part .box .bottom .text {
+        margin-left: 18px;
+    }
+
+    #testi-part .box .bottom .text h4 {
+        font-size: 18px;
+    }
+
+    #testi-part .box .bottom .text p {
+        font-size: 16px;
+    }
+
+
+    /* testi part css end   */
+    /* footer part css start   */
+
+
+    #footer-part .news {
+        border-radius: 0;
+        transform: translate(0);
+        padding-top: 10px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+
+    #footer-part .news .left {
+        flex-direction: column;
+    }
+
+    #footer-part .news .left h4 {
+        font-size: 24px;
+        margin-top: 5px;
+    }
+
+    #footer-part .news .left p {
+        font-size: 14px;
+        margin-top: -4px;
+    }
+
+    #footer-part .news .left .icon i {
+        font-size: 40px;
+    }
+
+    #footer-part form {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .btn2 {
+        margin-top: 10px;
+    }
+
+    #footer-part .right input {
+        margin-left: 0;
+        width: 248px;
+    }
+
+    #footer-part .contact .logo {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+
+    #footer-part .contact .box {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    #footer-part .contact .box2 {
+        margin-left: 0;
+    }
+
+    #footer-part .contact .box3 {
+        margin-left: 0;
+    }
+
+    #footer-part .social {
+        margin-top: 20px;
+    }
+
+    #footer-part .social ul li {
+        margin-right: 8px;
+    }
+
+    #footer-bottom .box {
+        text-align: left;
+    }
+
+
+
+
+    /* footer part css end   */
+
+
+
+}
+
+
+
+
+
+@media (min-width:576px) and (max-width:767px) {
+
+    /* nav part css start   */
+    nav {
+        z-index: 9999;
+    }
+
+    nav ul {
+        background: #fbdfe6;
+        text-align: center;
+        padding: 20px 0;
+
+    }
+
+    Nav .menu {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    nav .btn {
+        display: none;
+    }
+
+
+    Nav .menu a::after {
+        display: none;
+    }
+
+
+    /* nav part css end   */
+
+    /* banner part css start   */
+    #banner-part {
+        padding-bottom: 30px;
+    }
+
+    #banner-part h2 {
+        font-size: 40px;
+        margin-top: 0;
+    }
+
+    #banner-part h1 {
+        font-size: 46px;
+        margin-top: -11px;
+    }
+
+    #banner-part p {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    #banner-part a {
+        margin-top: 20px;
+        padding: 10px 30px;
+    }
+
+    #banner-part .left img {
+        margin-top: 40px;
+    }
+
+
+    /* banner part css end   */
+
+    /* history part css start   */
+
+    #history-part {
+        margin-top: 60px;
+    }
+
+    #history-part p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+
+
+
+    /* history part css end   */
+
+
+    /* gift part css start   */
+
+    #gift-part {
+        padding-bottom: 30px;
+    }
+    #gift-part p {
+        width: auto;
+    }
+
+
+
+    #gift-part .left a {
+        font-size: 18px;
+        padding: 8px 18px;
+
+    }
+
+
+    #gift-part .left .last {
+        margin-left: 5px;
+    }
+
+    #gift-part .right img {
+        display: none;
+    }
+
+
+
+    /* gift part css end   */
+
+    /* ticket part css start   */
+
+
+    #ticket-part .left img {
+        margin-top: 0;
+    }
+
+    #ticket-part .right p {
+        width: auto;
+        margin-top: 3px;
+    }
+
+    #ticket-part .right a {
+        font-size: 18px;
+        padding: 8px 20px;
+        ;
+    }
+
+    #ticket-part .right .last {
+        margin-left: 8px;
+
+    }
+
+    #ticket-part .right .bottom {
+        margin-top: 15px;
+    }
+
+
+
+
+    /* ticket part css end   */
+
+    /* offer part css start   */
+
+    #offer-part {
+        margin-top: 60px;
+        padding: 40px 0;
+
+    }
+
+   
+
+    #offer-part .left p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+    #offer-part .left .bottom {
+        margin-top: 15px;
+    }
+
+    #offer-part .box h3 {
+        font-size: 18px;
+    }
+
+    #offer-part .box img {
+        margin-right: 15px;
+    }
+
+    #offer-part .box {
+        margin-top: 20px;
+
+    }
+
+    #offer-part .box p {
+        width: auto;
+    }
+
+
+
+    /* offer part css end   */
+
+    /* shoot part css start   */
+
+
+    #shoots-part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    #shoots-part .overlay ul li a i {
+        font-size: 15px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    #shoots-part .box {
+        margin-top: 20px;
+    }
+
+    #shoots-part .bottom {
+        margin-top: 0;
+    }
+
+    #shoots-part .overlay .text h3 {
+        font-size: 18px;
+    }
+
+    #shoots-part .right .title h3 {
+        margin-top: 60px;
+    }
+
+    #shoots-part .right .title {
+        margin-bottom: 30px;
+     
+    }
+
+    #shoots-part .right p {
+        width: auto;
+
+    }
+
+    #shoots-part .right .btm {
+        margin-top: 15px;
+    }
+
+    #shoots-part .right a {
+        font-size: 18px;
+        padding: 8px 15px;
+    }
+
+    #shoots-part .right .btn {
+        margin-right: 5px;
+    }
+
+
+
+    /* shoot part css end   */
+    /* counter part css start   */
+
+
+    #counter-part {
+
+
+        margin-top: 30px;
+        padding-bottom: 110px;
+    }
+
+    #counter-part .box {
+        margin-top: 20px;
+    }
+
+
+
+
+    /* counter part css end   */
+    /* testi part css start   */
+
+    #testi-part {
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+
+    #testi-part .ticon {
+        display: none;
+    }
+
+    #testi-part .bicon {
+        display: none;
+    }
+
+    #testi-part .box {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 30px;
+    }
+    #testi-part .box .top{
+        text-align: center;
+    }
+    #testi-part .box .top p {
+        width: auto;
+    }
+
+    #testi-part .box .bottom {
+        margin-top: 25px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #testi-part .box .circle {
+        width: 80px;
+        height: 80px;
+       margin-left: 204px;
+    }
+
+
+
+    #testi-part .box .bottom .text {
+        margin-left: 18px;
+    }
+
+    #testi-part .box .bottom .text h4 {
+        font-size: 18px;
+    }
+
+    #testi-part .box .bottom .text p {
+        font-size: 16px;
+    }
+
+
+    /* testi part css end   */
+    /* footer part css start   */
+
+    #footer-part{
+        margin-top: 100px;
+    }
+    #footer-part .news {
+        border-radius: 0;
+        transform: translateY(-50%);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+
+    #footer-part .news .left {
+     margin-left: 80px;
+    }
+
+    #footer-part .news .left h4 {
+        font-size: 24px;
+        margin-top: 5px;
+    }
+
+    #footer-part .news .left p {
+        font-size: 14px;
+        margin-top: -4px;
+    }
+
+    #footer-part .news .left .icon i {
+        font-size: 40px;
+    }
+
+    #footer-part form {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .btn2 {
+        margin-top: 10px;
+    }
+
+    #footer-part .right input {
+        margin-left: 22px;
+        width: 200px;
+    }
+
+    #footer-part .contact .logo {
+        margin-top: 0;
+        margin-bottom: 40px;
+    }
+
+
+    #footer-part .contact .box {
+        flex-direction: column;
+        margin-top: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    #footer-part .contact .box2 {
+        margin-left: 0;
+    }
+
+    #footer-part .contact .box3 {
+        margin-left: 0;
+    }
+    #footer-part .contact .box .text{
+        text-align: center;
+    }
+    #footer-part .contact .box .text p{
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    #footer-part .social {
+        margin-top: 20px;
+    }
+
+    #footer-part .social ul li {
+        margin-right: 8px;
+    }
+
+    
+
+
+
+
+    /* footer part css end   */
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width:768px) and (max-width:991px) {
+
+    /* nav part css start   */
+    nav {
+        z-index: 9999;
+    }
+
+    nav ul {
+        background: #fbdfe6;
+        text-align: center;
+        padding: 20px 0;
+
+    }
+
+    Nav .menu {
+        margin-right: 0;
+        margin-top: 0;
+    }
+
+    nav .btn {
+        display: none;
+    }
+
+
+    Nav .menu a::after {
+        display: none;
+    }
+
+
+    /* nav part css end   */
+
+    /* banner part css start   */
+    #banner-part {
+        padding-bottom: 30px;
+    }
+
+    #banner-part h2 {
+        font-size: 40px;
+        margin-top: 0;
+    }
+
+    #banner-part h1 {
+        font-size: 46px;
+        margin-top: -11px;
+    }
+
+    #banner-part p {
+        width: auto;
+        margin-top: 10px;
+    }
+
+    #banner-part a {
+        margin-top: 20px;
+        padding: 10px 30px;
+    }
+
+    #banner-part .left img {
+        margin-top: 40px;
+    }
+
+
+    /* banner part css end   */
+
+    /* history part css start   */
+
+    #history-part {
+        margin-top: 60px;
+    }
+
+    #history-part p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+
+
+
+    /* history part css end   */
+
+
+    /* gift part css start   */
+
+    #gift-part {
+        padding-bottom: 30px;
+    }
+    #gift-part p {
+        width: auto;
+    }
+
+
+
+    #gift-part .left a {
+        font-size: 18px;
+        padding: 8px 18px;
+
+    }
+
+
+    #gift-part .left .last {
+        margin-left: 5px;
+    }
+
+    #gift-part .right img {
+        display: none;
+    }
+
+
+
+    /* gift part css end   */
+
+    /* ticket part css start   */
+
+
+    #ticket-part .left img {
+        margin-top: 0;
+    }
+
+    #ticket-part .right p {
+        width: auto;
+        margin-top: 3px;
+    }
+
+    #ticket-part .right a {
+        font-size: 18px;
+        padding: 8px 20px;
+        ;
+    }
+
+    #ticket-part .right .last {
+        margin-left: 8px;
+
+    }
+
+    #ticket-part .right .bottom {
+        margin-top: 15px;
+    }
+
+
+
+
+    /* ticket part css end   */
+
+    /* offer part css start   */
+
+    #offer-part {
+        margin-top: 60px;
+        padding: 40px 0;
+
+    }
+
+   
+
+    #offer-part .left p {
+        width: auto;
+        margin-top: 30px;
+    }
+
+    #offer-part .left .bottom {
+        margin-top: 15px;
+    }
+
+    #offer-part .box h3 {
+        font-size: 18px;
+    }
+
+    #offer-part .box img {
+        margin-right: 15px;
+    }
+
+    #offer-part .box {
+        margin-top: 20px;
+
+    }
+
+    #offer-part .box p {
+        width: auto;
+    }
+
+
+
+    /* offer part css end   */
+
+    /* shoot part css start   */
+
+
+    #shoots-part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    #shoots-part .overlay ul li a i {
+        font-size: 15px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    #shoots-part .box {
+        margin-top: 20px;
+    }
+
+    #shoots-part .bottom {
+        margin-top: 0;
+    }
+
+    #shoots-part .overlay .text h3 {
+        font-size: 20px;
+    }
+
+    #shoots-part .right .title h3 {
+        margin-top: 60px;
+    }
+
+   #shoots-part .right .title {
+        margin-bottom: 30px;
+    
+    }
+
+    #shoots-part .right p {
+        width: auto;
+
+    }
+
+    #shoots-part .right .btm {
+        margin-top: 0px;
+    }
+
+    #shoots-part .right a {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
+
+    #shoots-part .right .btn {
+        margin-right: 20px;
+    }
+
+
+
+    /* shoot part css end   */
+    /* counter part css start   */
+
+
+    #counter-part {
+
+
+        margin-top: 30px;
+        padding-bottom: 110px;
+    }
+
+    #counter-part .box {
+        margin-top: 20px;
+    }
+
+
+
+
+    /* counter part css end   */
+    /* testi part css start   */
+
+    #testi-part {
+        padding-top: 60px;
+        padding-bottom: 100px;
+    }
+
+    #testi-part .ticon {
+        display: none;
+    }
+
+    #testi-part .bicon {
+        display: none;
+    }
+
+    #testi-part .box {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 30px;
+    }
+    #testi-part .box .top{
+        text-align: center;
+    }
+    #testi-part .box .top p {
+        width: auto;
+    }
+
+    #testi-part .box .bottom {
+        margin-top: 25px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #testi-part .box .circle {
+        width: 80px;
+        height: 80px;
+       margin-left: 290px;
+    }
+
+
+
+    #testi-part .box .bottom .text {
+        margin-left: 18px;
+    }
+
+    #testi-part .box .bottom .text h4 {
+        font-size: 18px;
+    }
+
+    #testi-part .box .bottom .text p {
+        font-size: 16px;
+    }
+
+
+    /* testi part css end   */
+    /* footer part css start   */
+
+    #footer-part{
+        margin-top: 100px;
+    }
+    #footer-part .news {
+        border-radius: 0;
+        transform: translateY(-50%);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+
+    #footer-part .news .left {
+     margin-left: 180px;
+    }
+
+    #footer-part .news .left h4 {
+        font-size: 24px;
+        margin-top: 5px;
+    }
+
+    #footer-part .news .left p {
+        font-size: 14px;
+        margin-top: -4px;
+    }
+
+    #footer-part .news .left .icon i {
+        font-size: 40px;
+    }
+
+    #footer-part form {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .btn2 {
+        margin-top: 10px;
+    }
+
+    #footer-part .right input {
+        margin-left: 38px;
+        width: 270px;
+    }
+
+    #footer-part .contact .logo {
+        margin-top: 0;
+        margin-bottom: 40px;
+    }
+
+
+    #footer-part .contact .box {
+        flex-direction: column;
+        margin-top: 0;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    #footer-part .contact .box2 {
+        margin-left: 0;
+    }
+
+    #footer-part .contact .box3 {
+        margin-left: 0;
+    }
+    #footer-part .contact .box .text{
+        text-align: center;
+    }
+    #footer-part .contact .box .text p{
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    #footer-part .social {
+        margin-top: 20px;
+    }
+
+    #footer-part .social ul li {
+        margin-right: 8px;
+    }
+
+    
+
+
+
+
+    /* footer part css end   */
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
